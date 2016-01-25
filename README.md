@@ -9,3 +9,18 @@
 ## 对外api
 * 通用解析api [简体中文](/UaCommApi/Lang/zh-cn/index.md)
 * 前端用js (开发中)
+
+## English
+this is web-api to analyse User-Agent String.
+We provide web api only now.
+This follow infos we can get from this:
+OSinfo
+Appinfo
+DeviceInfo
+NetWorkInfo
+(my English is poor,so....)
+## Api
+* Comm Api [English](/UaCommApi/Lang/en-us/index.md)
+* Js for Front (developing)
+
+ 
