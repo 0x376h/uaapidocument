@@ -14,7 +14,7 @@
     <td></td>
 </tr>
 <tr>
-    <td>IOS</td>
+    <td>Windows Phone</td>
     <td></td>
 </tr>
 </table>
