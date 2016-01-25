@@ -43,13 +43,13 @@
 ### platform: 平台类型,目前保留，  
 
 ### os  操作系统信息
-  * osname:操作系统名:目前支持android,IOS,windows phone [查看支持所有的os](/osinfos.md)  
+  * osname:操作系统名:目前支持android,IOS,windows phone [查看支持所有的os](osinfos.md)  
   * osverion:操作系统版本  
   * osplatformtype:保留  
  
 ### appinfo  应用信息
   * platform :app的平台，一般与osname相同  
-  * appname : 应用名称 [查看支持所有的app](/appinfos.md)  
+  * appname : 应用名称 [查看支持所有的app](appinfos.md)  
   * appdesc :应用描述，目前只有中文  
   * appver :应用版本  
  
@@ -59,7 +59,7 @@
   * devicestr: 设备特征  
   
 ### networkinfo 网络状态信息  
-  * networkstatus : 网络状态  [查看支持所有的网络状态](/networkstatus.md)  
+  * networkstatus : 网络状态  [查看支持所有的网络状态](networkstatus.md)  
   * networkdesc :描述  
   
 ## code:
